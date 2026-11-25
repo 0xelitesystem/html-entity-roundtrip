@@ -66,5 +66,5 @@ MIT.
 ## Related
 
 - [base64-url-encoder-decoder](https://github.com/0xelitesystem/base64-url-encoder-decoder), encode and decode Base64 and Base64URL
-- [json-formatter-and-validator](https://github.com/0xelitesystem/json-formatter-and-validator), format and validate JSON in your browser
+- [json-format-minify-validate](https://github.com/0xelitesystem/json-format-minify-validate), format and validate JSON in your browser
 - [title-to-url-slug](https://github.com/0xelitesystem/title-to-url-slug), turn text into clean URL slugs
