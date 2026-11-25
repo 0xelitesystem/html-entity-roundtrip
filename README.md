@@ -1,8 +1,8 @@
-# HTML Entity Encoder and Decoder
+# HTML Entity Roundtrip
 
 Encode text to HTML entities and decode entities back to text, in your browser. No server, no tracking, no third-party scripts.
 
-**Live demo:** https://0xelitesystem.github.io/html-entity-encoder-decoder/
+**Live demo:** https://0xelitesystem.github.io/html-entity-roundtrip/
 
 ## Use
 
@@ -34,8 +34,8 @@ Everything runs in your browser. Your input and the encoded or decoded output ne
 ## Run locally
 
 ```bash
-git clone https://github.com/0xelitesystem/html-entity-encoder-decoder
-cd html-entity-encoder-decoder
+git clone https://github.com/0xelitesystem/html-entity-roundtrip
+cd html-entity-roundtrip
 # Open index.html in your browser, or:
 python -m http.server 8000
 ```
